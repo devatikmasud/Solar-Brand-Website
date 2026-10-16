@@ -1,0 +1,6 @@
+Client-provided solarshop wordmark primary colors (sampled from supplied PNG):
+- Green: #558356
+- Blue: #477dab
+- Gold: #e9b550
+
+Source: public/assets/surya-shop-logo.png. These values are a visual reference; accessible text and CTA elements use darker companion shades in site.css for legible contrast.

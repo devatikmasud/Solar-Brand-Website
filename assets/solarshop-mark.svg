@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="solarshop sun and horizon mark">
+  <rect width="64" height="64" rx="14" fill="#fffef8"/>
+  <circle cx="32" cy="27" r="15" fill="#e9b550"/>
+  <path d="M10 39c7-8 15-12 22-12 9 0 16 5 22 12v10H10z" fill="#558356"/>
+  <path d="M10 45c8-5 15-7 22-7 8 0 15 2 22 7v4H10z" fill="#477dab"/>
+  <path d="M10 49h44" stroke="#284e35" stroke-width="2" stroke-linecap="round"/>
+</svg>
